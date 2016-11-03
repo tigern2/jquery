@@ -10,12 +10,12 @@
     "url": "git@github.com:tigern2/jquery.git"
   },
   "files": [
-    "jquery-3.0.0.tar.gz"
   ],
   "keywords": [],
   "author": "Oskar",
   "license": "MIT",
   "dependencies": {
+    "jquery-3.0.0.tar.gz"
   },
   "peerDependencies": {
   }
